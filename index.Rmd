@@ -1,0 +1,13 @@
+---
+title: "Marge Leary"
+image: "portrait.jpg"
+links:
+  - label: Memorial Video
+    url: "https://www.youtube.com/watch?v=oA7_LDk00tg"
+  - label: Comments 
+    url: "comments.html"
+output:
+  postcards::jolla
+---
+ 
+Marjorie Bates Leary’s life was filled with love for her family and friends.  According to numerous reports received after her death, she was the kindest person that many had ever known and she inspired others by her positive spirit, personal grace, sense of humor, incredible generosity, and steadfast courage in the face of adversity.  She faced death as she faced life, as something to confront with honesty and gratitude for all she had experienced.  This website has been constructed to honor this wonderful person and the remarkable impact she had on the lives of so many others.  Marge’s family appreciates the many notes of condolence and testaments of love that they have received from far and wide.
