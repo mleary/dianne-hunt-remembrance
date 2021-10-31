@@ -9,7 +9,7 @@ links:
   - label: Celebration Materials
     url: 'https://drive.google.com/drive/folders/17nU5_wZS7IfKblBl0gWCPXVVyglKNGkN?usp=sharing'
 output:
-  postcards::jolla
+  postcards::jolla_blue
 ---
 
 ##### February 12, 1953 - August 23, 2021

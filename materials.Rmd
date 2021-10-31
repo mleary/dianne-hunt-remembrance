@@ -1,0 +1,11 @@
+---
+title: "Rememberance Materials"
+output:
+  postcards::jolla
+---
+
+Click <a href='Remembrance-Document-Final.pdf'>here</a> to read the many wonderful remembrances left in honor of Dianne.
+
+# Folder https://www.dropbox.com/sh/hosddjw8zmc8z40/AACMjicaJyz5BQWoNZYg41hCa?dl=0
+
+#  Video only https://www.dropbox.com/s/ogac948pf3ieibg/Audio-Video%20Recording.mp4?dl=0
