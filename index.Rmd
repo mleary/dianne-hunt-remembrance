@@ -2,21 +2,25 @@
 title: "Dianne Grace Hunt"
 image: "portrait.jpg"
 links:
-  - label: Celebration Video
-    url: "https://drive.google.com/file/d/17M25nRwkf_UaR9T3PbrfBpsfgttjrIGz/view?usp=sharing"
+  - label: About Dianne
+    url: "about.html"
   - label: Obituary 
     url: "https://obituaries.neptune-society.com/obituaries/belmont-ca/dianne-hunt-10325369"
   - label: Celebration Materials
-    url: 'https://drive.google.com/drive/folders/17nU5_wZS7IfKblBl0gWCPXVVyglKNGkN?usp=sharing'
+    url: 'https://www.dropbox.com/sh/hosddjw8zmc8z40/AACMjicaJyz5BQWoNZYg41hCa?dl=0'
 output:
-  postcards::jolla_blue
+  postcards::trestles:
+    css: "./styles.css"
 ---
 
-##### February 12, 1953 - August 23, 2021
-
+## Remembering our dear friend
 Our dear friend, Dianne Grace Hunt of Rohnert Park, left the well-worn trails of earth to eternally hike new trails and walk among the beautiful flowers she loved so much in the late afternoon of August 23, 2021, in Santa Clara, California.
 
 
 Dianne had a passion for nature and shared this love with friends teaching about the various “native” species of flowers, trees, and birds at every opportunity. Dianne’s life was one of travel and adventure, taking the time to meet people everywhere she went and developing life-long friendships all along the way.
 
-Click <a href='Remembrance-Document-Final.pdf'>here</a> to read the many wonderful remembrances left in honor of Dianne.
+<br><br>
+
+## Viewing the celebration materials
+
+A celebration of Dianne's life was held XXXXX.  A video of the service and additional materials are saved on Dropbox and are accessible via the **Celebration Materials** link.  To view the full video, download the video by clicking the downward arrow next to the **Sign in** and **Sign up** buttons.  You don't need to create a Dropbox account for this.
