@@ -12,6 +12,11 @@ output:
   postcards::trestles:
     css: "./styles.css"
 ---
+<center>
+![](portrait.jpg)
+</center>
+
+<br><br>
 
 ## Remembering our dear friend
 Our dear friend, Dianne Grace Hunt of Rohnert Park, left the well-worn trails of earth to eternally hike new trails and walk among the beautiful flowers she loved so much in the late afternoon of August 23, 2021, in Santa Clara, California.
