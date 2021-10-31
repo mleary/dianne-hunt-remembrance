@@ -1,13 +1,26 @@
 ---
-title: "Marge Leary"
+title: "Dianne Grace Hunt"
 image: "portrait.jpg"
 links:
-  - label: Memorial Video
-    url: "https://www.youtube.com/watch?v=oA7_LDk00tg"
-  - label: Comments 
-    url: "comments.html"
+  - label: Celebration Video
+    url: "https://drive.google.com/file/d/17M25nRwkf_UaR9T3PbrfBpsfgttjrIGz/view?usp=sharing"
+  - label: Obituary 
+    url: "https://obituaries.neptune-society.com/obituaries/belmont-ca/dianne-hunt-10325369"
+  - label: Celebration Materials
+    url: 'https://drive.google.com/drive/folders/17nU5_wZS7IfKblBl0gWCPXVVyglKNGkN?usp=sharing'
 output:
   postcards::jolla
 ---
- 
-Marjorie Bates Leary’s life was filled with love for her family and friends.  According to numerous reports received after her death, she was the kindest person that many had ever known and she inspired others by her positive spirit, personal grace, sense of humor, incredible generosity, and steadfast courage in the face of adversity.  She faced death as she faced life, as something to confront with honesty and gratitude for all she had experienced.  This website has been constructed to honor this wonderful person and the remarkable impact she had on the lives of so many others.  Marge’s family appreciates the many notes of condolence and testaments of love that they have received from far and wide.
+
+##### February 12, 1953 - August 23, 2021
+
+Our dear friend, Dianne Grace Hunt of Rohnert Park, left the well-worn trails of earth to
+eternally hike new trails and walk among the beautiful flowers she loved so much in the late
+afternoon of August 23, 2021, in Santa Clara, CA.
+
+
+Dianne had a passion for nature and shared this love with friends teaching about the various
+“native” species of flowers, trees, and birds at every opportunity. Dianne’s life was one of travel and adventure, taking the time to meet people everywhere she went and developing life-
+long friendships all along the way.
+
+Click <a href='Remembrance-Document-Final.pdf'>here</a> to read the many wonderful remembrances left in honor of Dianne.
