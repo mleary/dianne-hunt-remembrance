@@ -4,23 +4,31 @@ image: "portrait.jpg"
 links:
   - label: About Dianne
     url: "about.html"
-  - label: Obituary 
-    url: "https://obituaries.neptune-society.com/obituaries/belmont-ca/dianne-hunt-10325369"
   - label: Celebration Materials
     url: 'https://www.dropbox.com/sh/hosddjw8zmc8z40/AACMjicaJyz5BQWoNZYg41hCa?dl=0'
+  - label: Photos of Dianne 
+    url: 'https://www.dropbox.com/sh/0didypico9wh8vq/AACWbiq1QhRfpGkL6FbfPdQoa?dl=0'
 output:
   postcards::trestles:
     css: "./styles.css"
 ---
+<!---  Manual updates
+
+change picture div to class p-2
+// Info to add for dates <h4>February 12, 1953 - August 23,2021</h4> 
+
+--->
 
 ## Remembering our dear friend
-Our dear friend, Dianne Grace Hunt of Rohnert Park, left the well-worn trails of earth to eternally hike new trails and walk among the beautiful flowers she loved so much in the late afternoon of August 23, 2021, in Santa Clara, California.
 
+On August 23, 2021, our dear friend, Dianne Grace Hunt, left the well-worn trails of earth to eternally hike new trails and walk among the beautiful flowers she loved so much. 
 
-Dianne had a passion for nature and shared this love with friends teaching about the various “native” species of flowers, trees, and birds at every opportunity. Dianne’s life was one of travel and adventure, taking the time to meet people everywhere she went and developing life-long friendships all along the way.
+Dianne had a passion for nature and shared this love with friends, teaching about the various “native” species of flowers, trees, and birds at every opportunity. Dianne’s life was one of travel and adventure, taking the time to meet people everywhere she went and developing life-long friendships all along the way. Her friendliness and enthusiasm were contagious, touching the lives of all those with which she shared her generous spirit.
+ 
+Dianne’s Celebration of Life was held virtually on October 2, 2021. We invite you to watch the recording of the celebration and enjoy seeing the many admirable aspects of her life that inspired her many friends. Remembrances of Dianne are also available to read. 
 
 <br><br>
 
 ## Viewing the celebration materials
 
-A celebration of Dianne's life was held XXXXX.  A video of the service and additional materials are saved on Dropbox and are accessible via the **Celebration Materials** link.  To view the full video, download the video by clicking the downward arrow next to the **Sign in** and **Sign up** buttons.  You don't need to create a Dropbox account for this.
+A video of the celebration and additional materials are saved on Dropbox and are accessible via the **Celebration Materials** link. To view the full video, download the video by clicking the downward arrow next to the Sign in and Sign up buttons on the right of your screen. You don’t need to create a Dropbox account in order to do this. Once the video is downloaded, click on the arrow on the video. The Celebration of Life will start at 52 seconds. 
