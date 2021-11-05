@@ -15,7 +15,7 @@ output:
 <!---  Manual updates
 
 change picture div to class p-2
-// Info to add for dates <h4>February 12, 1953 - August 23,2021</h4> 
+// Info to add for dates below name ---- <h4>February 12, 1953 - August 23,2021</h4> 
 
 --->
 
