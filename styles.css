@@ -3,6 +3,23 @@ body{
   background-color: #8A9A5B;  
 }
 
-.p-3{
-  height:25rem;
+
+/* unvisited link */
+a:link {
+  color: navy;
+}
+
+/* visited link */
+a:visited {
+  color: navy;
+}
+
+/* mouse over link */
+a:hover {
+  color: navy;
+}
+
+/* selected link */
+a:active {
+  color: navy;
 }

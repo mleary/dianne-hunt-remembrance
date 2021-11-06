@@ -9,6 +9,13 @@ output:
     css: "./styles.css"
 ---
 
+<!---  Manual updates
+
+change picture div to class p-2
+// Info to add for dates ---------------- <h4>February 12, 1953 - August 23, 2021</h4> 
+
+--->
+
 Dianne was born February 12, 1953, In Redwood City, CA to David and Evelyn Hunt; she noted
 numerous times that she grew up in a “Leave it to Beaver” family, dad had his own business as
 a public accountant and Mom was a stay-at-home mom teaching her children many wonderful

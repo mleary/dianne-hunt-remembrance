@@ -5,7 +5,7 @@ links:
   - label: About Dianne
     url: "about.html"
   - label: Celebration Materials
-    url: 'https://www.dropbox.com/sh/hosddjw8zmc8z40/AACMjicaJyz5BQWoNZYg41hCa?dl=0'
+    url: 'memorial.html'
   - label: Photos of Dianne 
     url: 'https://www.dropbox.com/sh/0didypico9wh8vq/AACWbiq1QhRfpGkL6FbfPdQoa?dl=0'
 output:
@@ -14,8 +14,7 @@ output:
 ---
 <!---  Manual updates
 
-change picture div to class p-2
-// Info to add for dates ---------------- <h4>February 12, 1953 - August 23,2021</h4> 
+// Info to add for dates ---------------- <h4>February 12, 1953 - August 23, 2021</h4> 
 
 --->
 
@@ -29,6 +28,3 @@ Dianne’s Celebration of Life was held virtually on October 2, 2021. We invite 
 
 <br><br>
 
-## Viewing the celebration materials
-
-A video of the celebration and additional materials are saved on Dropbox and are accessible via the **Celebration Materials** link. To view the full video, download the video by clicking the downward arrow next to the Sign in and Sign up buttons on the right of your screen. You don’t need to create a Dropbox account in order to do this. Once the video is downloaded, click on the arrow on the video. The Celebration of Life will start at 52 seconds. 
