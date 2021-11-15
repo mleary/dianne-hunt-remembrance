@@ -6,8 +6,13 @@ links:
     url: "about.html"
   - label: Celebration Materials
     url: 'memorial.html'
+  - label: Charity Donations
+    url: 'https://www.dropbox.com/s/bsv0cin6ir74ljf/Charitable%20Donations.pdf?dl=0'
   - label: Dianne's Scrapbooks
     url: 'https://www.dropbox.com/sh/0didypico9wh8vq/AACWbiq1QhRfpGkL6FbfPdQoa?dl=0'
+    
+    
+    
 output:
   postcards::trestles:
     css: "./styles.css"
