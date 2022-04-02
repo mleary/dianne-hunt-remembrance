@@ -8,10 +8,12 @@ links:
     url: 'memorial.html'
   - label: Charity Donations
     url: 'https://www.dropbox.com/s/bsv0cin6ir74ljf/Charitable%20Donations.pdf?dl=0'
+  - label: Miscellaneous
+    url: 'https://www.dropbox.com/sh/j9huy333ra9sv4s/AAAZinTB7RtBNc3t5jPjNe08a?dl=0'    
   - label: Dianne's Scrapbooks
     url: 'https://www.dropbox.com/sh/0didypico9wh8vq/AACWbiq1QhRfpGkL6FbfPdQoa?dl=0'
-    
-    
+  - label: Dianne's Travel Journals   
+    url: 'https://www.dropbox.com/sh/32ojdlo344lxivb/AABIkr69iM1sgMagWMzqxT1Ia?dl=0'
     
 output:
   postcards::trestles:
