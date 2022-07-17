@@ -13,7 +13,7 @@ links:
   - label: Dianne's Scrapbooks
     url: 'https://www.dropbox.com/sh/0didypico9wh8vq/AACWbiq1QhRfpGkL6FbfPdQoa?dl=0'
   - label: Dianne's Travel Journals   
-    url: 'https://www.dropbox.com/sh/32ojdlo344lxivb/AABIkr69iM1sgMagWMzqxT1Ia?dl=0'
+    url: 'https://www.dropbox.com/sh/dvz4hrzk0egx90n/AADHcaCXxU5XC19QySftUXWaa?dl=0'
     
 output:
   postcards::trestles:
